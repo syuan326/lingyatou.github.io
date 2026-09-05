@@ -1,0 +1,29 @@
+# Allow all robots
+User-agent: *
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /official/
+Disallow: /music/
+Disallow: /link/
+Disallow: /gallery/
+Disallow: /comments/
+Disallow: /charts/
+Disallow: /about/
+Disallow: /_drafts/
+Disallow: /_data/
+
+
+Allow: /posts/
+Allow: /images/
+Allow: /static/
+
+
+Sitemap: https://pardofelis.top/sitemap.xml
+Sitemap: https://pardofelis.top/baidusitemap.xml
